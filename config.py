@@ -1,0 +1,2 @@
+token = 'NTkzMjY5NzQzODI2MjM5NDkx.XTEZzw.EYtOTWs-xyB8vJtkzaSkHZp9AQ0'
+devtoken = 'NjAyOTk4ODI4NTM4NTI3Nzc0.XTZAdA.800Uaqv-jl7EFeabTMZ4gUwWLDw'
